@@ -1,4 +1,5 @@
 # Automatic Certificate of Analysis with Product Specifications Maker
+![coamaker](https://github.com/je-marco/coamaker/blob/922d881da3f159242317a279eab19157d090ff03/coa_maker.png)
 
 This project automates the creation of Certificates of Analysis (CoA) using Excel, Power Query, VBA, and Excel functions like VLOOKUP. It simplifies the process by integrating data from multiple sources and generating a product's certificate of analysis with minimal manual effort.
 
